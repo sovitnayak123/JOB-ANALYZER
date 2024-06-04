@@ -41,24 +41,18 @@ Welcome to the Job Analyzer project! This application leverages Large Language M
 
 ### Usage
 
-1. Open your web browser and navigate to `http://localhost:8501`.
+1. Open your web browser and navigate to `https://job-analyzer-363hqtaigs9hnsnee6fc9v.streamlit.app/`.
 2. Upload a job description or paste the text directly into the application.
 3. Click on the "Analyze" button to get insights and recommendations.
 
 ## Project Structure
 
 - `app.py`: Main application script for Streamlit.
-- `models/`: Contains the models used for analysis.
-- `utils/`: Utility functions for data processing and analysis.
 - `requirements.txt`: List of required Python libraries.
 
 ## Contributing
 
 Contributions are welcome! Please fork the repository and submit a pull request with your changes.
-
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
 
 ## Connect with Me
 
