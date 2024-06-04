@@ -3,9 +3,6 @@ Its an end to end Resume ATS Tracking LLM implemented project
 
 [Streamlit app link](https://job-analyzer-363hqtaigs9hnsnee6fc9v.streamlit.app/)
 
-Sure! Here's the content formatted for a `README.md` file for your GitHub repository:
-
-```markdown
 # Job Analyzer Using LLM
 
 Welcome to the Job Analyzer project! This application leverages Large Language Models (LLM) to analyze job descriptions and provide insights and recommendations. The application is deployed on Streamlit, making it accessible and easy to use.
