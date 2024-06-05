@@ -57,7 +57,7 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 ## Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/sovitnayak/)
-- [X ](https://twitter.com/sovitnayak123)
+- [X ](https://twitter.com/sovitnayak23)
 - [Medium](https://sovit2017nayak.medium.com/)
 ```
 
