@@ -1,4 +1,4 @@
-# JOB-ANALYZER
+# JOB ANALYZER
 Its an end to end Resume ATS Tracking LLM implemented project
 
 [Streamlit app link](https://job-analyzer-363hqtaigs9hnsnee6fc9v.streamlit.app/)
